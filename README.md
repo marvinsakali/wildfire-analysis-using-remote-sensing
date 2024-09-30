@@ -22,6 +22,7 @@ The Normalized Burn Ratio (NBR) will be used to identify burnt areas:
 The Normalized Burn Ratio (NBR) is an index designed to highlight burnt areas in large fire zones.  Healthy vegetation shows a very high reflectance in the NIR, and low reflectance in the SWIR portion of the spectrum he opposite of what is seen in burnt areas
        
         NBR = NIR−SWIR/NIR+SWIR
+https://github.com/user-attachments/assets/46014fb6-8ac1-48fc-9bab-d4b8e99000f4
 ### 
      
 
