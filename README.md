@@ -24,7 +24,12 @@ The Normalized Burn Ratio (NBR) is an index designed to highlight burnt areas in
         NBR = NIR−SWIR/NIR+SWIR
 ![FireShot Capture 019 - Normalized Burn Ratio (NBR) - UN-SPIDER Knowledge Portal - un-spider org (1)](https://github.com/user-attachments/assets/003ddb0b-7eff-4ed5-af19-216125c5f112)
 
-### 
+### Burn Severity
+The difference between the pre-fire and post-fire NBR obtained from the images is used to calculate the delta NBR (dNBR or ∆NBR), which then can be used to estimate the burn severity. A higher value of dNBR indicates more severe damage, while areas with negative dNBR values may indicate regrowth following a fire. The formula used to calculate dNBR is illustrated below:
+      
+       dNBR=NBRpre-fire−NBRpost-fire
+​
+
      
 
 ​
