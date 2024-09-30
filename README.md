@@ -30,13 +30,16 @@ The difference between the pre-fire and post-fire NBR obtained from the images i
        dNBR=NBRpre-fire−NBRpost-fire
 ​
 ![FireShot Capture 020 - Normalized Burn Ratio (NBR) - UN-SPIDER Knowledge Portal - un-spider org](https://github.com/user-attachments/assets/c234d95b-1745-4d64-a6f4-749251f55f28)
- Keeley, J. E. (2009). Fire intensity, fire severity and burn severity: A brief review and suggested usage. International Journal of Wildland Fire, 18(1), 116–126
+
+Keeley, J. E. (2009). Fire intensity, fire severity and burn severity: A brief review and suggested usage. International Journal of Wildland Fire, 18(1), 116–126
  ### Vegetation Damage
  NDVI was calculate and change in NDVI visualized. This was used to determine the amount of vegetation damage caused by the fire.
 ## Results
 ![prefire](https://github.com/user-attachments/assets/8792df38-0f33-4ac8-af4e-6b204f5dba36) 
+
 prefire
 ![afterfire](https://github.com/user-attachments/assets/6dab175e-fdb7-4f6f-91e3-0855d9aa3222)
+
 afterfire
 ![fire](https://github.com/user-attachments/assets/3de53947-054a-45a4-9b3d-883d86585135)
 ## Conclusion
