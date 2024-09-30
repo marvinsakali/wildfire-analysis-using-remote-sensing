@@ -35,6 +35,7 @@ The difference between the pre-fire and post-fire NBR obtained from the images i
  NDVI was calculate and change in NDVI visualized. This was used to determine the amount of vegetation damage caused by the fire.
 ## Results
 
+![fire](https://github.com/user-attachments/assets/3de53947-054a-45a4-9b3d-883d86585135)
 ## Conclusion
 The study successfully maps and assesses the burnt areas in Mt. Kenya using satellite imagery. Burn severity varies significantly across the region, influencing post-fire vegetation recovery. The use of remote sensing tools like Google Earth Engine proves effective in wildfire monitoring and can be a vital resource for forest management.
 ​
