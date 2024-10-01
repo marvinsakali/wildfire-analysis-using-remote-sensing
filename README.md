@@ -22,6 +22,7 @@ Landsat 8 being an optical remote sensing data, it is highly affected by clouds,
 During the combution procces the energy realesed represents the fire intensity(Keeley, 2009). Burnt severenity refers to the damage caused by the fire on the burnt area. he observed effects often vary within the area and between different ecosystems (Keeley, 2009).  Burn severity can also be described as the degree to which an area has been altered or disrupted by the fire.
 ![nn](https://github.com/user-attachments/assets/387cc204-3d71-49d2-a8cb-9cd1e960c955)
 
+### Normalized Burn Ratio (NBR)
 The Normalized Burn Ratio (NBR) was used to identify burnt areas:
 The Normalized Burn Ratio (NBR) is an index designed to highlight burnt areas in large fire zones.  Healthy vegetation shows a very high reflectance in the NIR, and low reflectance in the SWIR portion of the spectrum he opposite of what is seen in burnt areas
        
