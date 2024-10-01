@@ -41,13 +41,17 @@ Keeley, J. E. (2009). Fire intensity, fire severity and burn severity: A brief r
  NDVI was calculate and change in NDVI visualized. This was used to determine the amount of vegetation damage caused by the fire.
 ## Results
 prefire
+
 ![prefire](https://github.com/user-attachments/assets/8792df38-0f33-4ac8-af4e-6b204f5dba36) 
 
 afterfire
+
 ![afterfire](https://github.com/user-attachments/assets/6dab175e-fdb7-4f6f-91e3-0855d9aa3222)
-![severi](https://github.com/user-attachments/assets/a4eed5ce-8c70-40e9-9bc2-ddef619294ab)
 
 burnt severinity
+![severi](https://github.com/user-attachments/assets/a4eed5ce-8c70-40e9-9bc2-ddef619294ab)
+
+
 
 
 ![fire](https://github.com/user-attachments/assets/3de53947-054a-45a4-9b3d-883d86585135)
