@@ -49,6 +49,7 @@ afterfire
 ![afterfire](https://github.com/user-attachments/assets/6dab175e-fdb7-4f6f-91e3-0855d9aa3222)
 
 burnt severinity
+
 ![severi](https://github.com/user-attachments/assets/a4eed5ce-8c70-40e9-9bc2-ddef619294ab)
 
 
