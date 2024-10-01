@@ -19,7 +19,8 @@ Images before the fire and immediately after the fire were loaded in the Google 
 Landsat 8 being an optical remote sensing data, it is highly affected by clouds, their associated clouds and snow. This tends to often obscure the Earth's surface, leading to inaccuracies in analyses. To overcome all this a cloud and snow mask was performed to remove the cloud covered pixels in the image.Landsat 8 provides cloud masking capabilities through the Quality Assessment (QA) band, which includes flags for different types of clouds (e.g., cirrus clouds) and cloud shadows.
 ### Burnt Area Detection
 ### Fire Intensity versus Burn Severity
-During the combution procces the energy realesed represents the fire intensity(Keeley, 2009). Burnt severenity refers to the damage caused by the fire on the burnt area. he observed effects often vary within the area and between different ecosystems (Keeley, 2009).  Burn severity can also be described as the degree to which an area has been altered or disrupted by the fire. 
+During the combution procces the energy realesed represents the fire intensity(Keeley, 2009). Burnt severenity refers to the damage caused by the fire on the burnt area. he observed effects often vary within the area and between different ecosystems (Keeley, 2009).  Burn severity can also be described as the degree to which an area has been altered or disrupted by the fire.
+![nn](https://github.com/user-attachments/assets/387cc204-3d71-49d2-a8cb-9cd1e960c955)
 The Normalized Burn Ratio (NBR) was used to identify burnt areas:
 The Normalized Burn Ratio (NBR) is an index designed to highlight burnt areas in large fire zones.  Healthy vegetation shows a very high reflectance in the NIR, and low reflectance in the SWIR portion of the spectrum he opposite of what is seen in burnt areas
        
